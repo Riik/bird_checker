@@ -1,0 +1,6 @@
+{
+  "user_id": 123456,
+  "locations": [
+    {"name": "Dam", "lat": 52.373, "lng": 4.893, "radius_meters": 1000}
+  ]
+}
